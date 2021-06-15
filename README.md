@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Rogopl/lab09_tutorial.svg?branch=master)](https://travis-ci.com/Rogopl/lab09_tutorial)
+[![Build Status](https://travis-ci.com/Ko71k/lab09_tutorial.svg?branch=main)](https://travis-ci.com/Ko71k/lab09_tutorial)
 ## Laboratory work IX
 
 Данная лабораторная работа посвещена изучению процесса создания артефактов на примере **Github Release**
